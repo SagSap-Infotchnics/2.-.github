@@ -26,5 +26,5 @@ To ensure precision across every project, our workflow operates on four core exe
 
 ### 📧 Get in Touch
 Let's build something exceptional together. 
-*   **Inquiries:** contact@sagsap.tech
+*   **Inquiries:** adarshpoduval5009@gmail.com
 *   **Location:** Maharashtra, India
